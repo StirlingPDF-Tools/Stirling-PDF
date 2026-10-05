@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="docs/stirling.png" width="100" alt="Stirling PDF Logo - Open Source PDF Processing Platform">
-</p>
 
 <h1 align="center">Stirling PDF: Powerful Self-Hosted & Open-Source PDF Platform</h1>
 
